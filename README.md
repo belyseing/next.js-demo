@@ -25,4 +25,4 @@ This is a full-stack web application built using **Next.js**, a React framework.
 
 This project demonstrates the power of Next.js for creating optimized, full-stack web applications with React. It includes features like routing, server-side data fetching, and authentication for a complete web app experience.
 
-Check out the app [here](http://localhost:3000).
+Check out the app [here](http://localhost:3001).
